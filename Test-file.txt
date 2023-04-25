@@ -1,1 +1,2 @@
-This is sumple file
+This is sumple file.
+This is another commit from terminal
